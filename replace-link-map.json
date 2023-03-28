@@ -1,0 +1,400 @@
+{
+  "https://g.alicdn.com/code/npm/@alife/mobile-page/0.1.1/build/lowcode/assets-prod.json": [
+    {
+      "filePath": "\\src\\index.js",
+      "replace": "/downloadAssets/code/npm/@alife/mobile-page/0.1.1/build/lowcode/assets-prod.json",
+      "status": "success"
+    }
+  ],
+  "https://alifd.alicdn.com/npm/@alifd/theme-lowcode-dark@0.6.1/variables.css": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alifd/theme-lowcode-dark@0.6.1/variables.css",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alifd/theme-lowcode-dark@0.6.1/variables.css",
+      "status": "success"
+    }
+  ],
+  "https://alifd.alicdn.com/npm/@alifd/theme-lowcode-dark@0.6.1/dist/next.var.min.css": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alifd/theme-lowcode-dark@0.6.1/dist/next.var.min.css",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alifd/theme-lowcode-dark@0.6.1/dist/next.var.min.css",
+      "status": "success"
+    }
+  ],
+  "https://dev.g.alicdn.com/ali-lowcode/ali-lowcode-engine/0.16.6/engine-core.css": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/ali-lowcode/ali-lowcode-engine/0.16.6/engine-core.css",
+      "status": "fail"
+    }
+  ],
+  "https://alifd.alicdn.com/npm/@alifd/lowcode-preset-plugin@1.1.8/dist/editor-preset-plugin.css": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alifd/lowcode-preset-plugin@1.1.8/dist/editor-preset-plugin.css",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alifd/lowcode-preset-plugin@1.1.8/dist/editor-preset-plugin.css",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/ali-lowcode/lowcode-engine-ext/1.0.20/engine-ext.css": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/ali-lowcode/lowcode-engine-ext/1.0.20/engine-ext.css",
+      "status": "success"
+    }
+  ],
+  "https://dev.g.alicdn.com/ali-lowcode/ali-lowcode-engine/0.16.6/engine-core.js": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/ali-lowcode/ali-lowcode-engine/0.16.6/engine-core.js",
+      "status": "fail"
+    }
+  ],
+  "https://g.alicdn.com/ali-lowcode/lowcode-engine-ext/1.0.20/engine-ext.js": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/ali-lowcode/lowcode-engine-ext/1.0.20/engine-ext.js",
+      "status": "success"
+    }
+  ],
+  "https://alifd.alicdn.com/npm/@alifd/lowcode-preset-plugin@1.1.8/dist/editor-preset-plugin.js": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alifd/lowcode-preset-plugin@1.1.8/dist/editor-preset-plugin.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alifd/lowcode-preset-plugin@1.1.8/dist/editor-preset-plugin.js",
+      "status": "success"
+    }
+  ],
+  "https://alifd.alicdn.com/npm/@alilc/lowcode-rax-renderer@1.0.18/dist/index.umd.js": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alilc/lowcode-rax-renderer@1.0.18/dist/index.umd.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alilc/lowcode-rax-renderer@1.0.18/dist/index.umd.js",
+      "status": "success"
+    }
+  ],
+  "https://alifd.alicdn.com/npm/@alilc/lowcode-rax-renderer@1.0.18/dist/index.css": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alilc/lowcode-rax-renderer@1.0.18/dist/index.css",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/npm/@alilc/lowcode-rax-renderer@1.0.18/dist/index.css",
+      "status": "success"
+    }
+  ],
+  "https://uipaas-assets.com/prod/npm/@alilc/lowcode-engine/1.0.18/dist/css/engine-core.css": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/prod/npm/@alilc/lowcode-engine/1.0.18/dist/css/engine-core.css",
+      "status": "success"
+    }
+  ],
+  "https://uipaas-assets.com/prod/npm/@alilc/lowcode-engine-ext/1.0.5/dist/css/engine-ext.css": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/prod/npm/@alilc/lowcode-engine-ext/1.0.5/dist/css/engine-ext.css",
+      "status": "success"
+    }
+  ],
+  "https://uipaas-assets.com/prod/npm/@alilc/lowcode-engine/1.0.18/dist/js/engine-core.js": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/prod/npm/@alilc/lowcode-engine/1.0.18/dist/js/engine-core.js",
+      "status": "success"
+    }
+  ],
+  "https://uipaas-assets.com/prod/npm/@alilc/lowcode-engine-ext/1.0.5/dist/js/engine-ext.js": [
+    {
+      "filePath": "\\src\\constants.js",
+      "replace": "/downloadAssets/prod/npm/@alilc/lowcode-engine-ext/1.0.5/dist/js/engine-ext.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/mylib/moment/2.24.0/min/moment.min.js": [
+    {
+      "filePath": "\\src\\templates\\index.jsx",
+      "replace": "/downloadAssets/mylib/moment/2.24.0/min/moment.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/mylib/moment/2.24.0/min/moment.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/mylib/moment/2.24.0/min/moment.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/mylib/moment/2.24.0/min/moment.min.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/platform/c/lodash/4.6.1/lodash.min.js": [
+    {
+      "filePath": "\\src\\templates\\index.jsx",
+      "replace": "/downloadAssets/platform/c/lodash/4.6.1/lodash.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/platform/c/lodash/4.6.1/lodash.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/platform/c/lodash/4.6.1/lodash.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/platform/c/lodash/4.6.1/lodash.min.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/code/lib/alifd__next/1.25.23/next.min.css": [
+    {
+      "filePath": "\\src\\templates\\index.jsx",
+      "replace": "/downloadAssets/code/lib/alifd__next/1.25.23/next.min.css",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/code/lib/alifd__next/1.25.23/next-with-locales.min.js": [
+    {
+      "filePath": "\\src\\templates\\index.jsx",
+      "replace": "/downloadAssets/code/lib/alifd__next/1.25.23/next-with-locales.min.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/code/lib/antd/4.17.3/antd.min.js": [
+    {
+      "filePath": "\\src\\templates\\index.jsx",
+      "replace": "/downloadAssets/code/lib/antd/4.17.3/antd.min.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/code/lib/antd/4.17.3/antd.min.css": [
+    {
+      "filePath": "\\src\\templates\\index.jsx",
+      "replace": "/downloadAssets/code/lib/antd/4.17.3/antd.min.css",
+      "status": "success"
+    }
+  ],
+  "https://mc-fusion.alibaba-inc.com/unpkg/@alifd/meet@2.4.2-beta.6/umd/meet.lowcode.js": [
+    {
+      "filePath": "\\src\\templates\\index.jsx",
+      "replace": "/downloadAssets/unpkg/@alifd/meet@2.4.2-beta.6/umd/meet.lowcode.js",
+      "status": "fail"
+    }
+  ],
+  "https://mc-fusion.alibaba-inc.com/unpkg/@alifd/meet@2.4.2-beta.6/umd/meet.min.css": [
+    {
+      "filePath": "\\src\\templates\\index.jsx",
+      "replace": "/downloadAssets/unpkg/@alifd/meet@2.4.2-beta.6/umd/meet.min.css",
+      "status": "fail"
+    }
+  ],
+  "https://g.alicdn.com/code/lib/alifd__next/1.23.20/next.min.css": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/code/lib/alifd__next/1.23.20/next.min.css",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/code/lib/rax/1.1.0/rax.umd.min.js": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/code/lib/rax/1.1.0/rax.umd.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/code/lib/rax/1.1.0/rax.umd.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/code/lib/rax/1.1.0/rax.umd.min.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/code/lib/react/16.9.0/umd/react.development.js": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/code/lib/react/16.9.0/umd/react.development.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/code/lib/react/16.9.0/umd/react.development.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/code/lib/react/16.9.0/umd/react.development.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/code/lib/react-dom/16.9.0/umd/react-dom.development.js": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/code/lib/react-dom/16.9.0/umd/react-dom.development.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/code/lib/react-dom/16.9.0/umd/react-dom.development.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/code/lib/react-dom/16.9.0/umd/react-dom.development.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/code/lib/prop-types/15.7.2/prop-types.js": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/code/lib/prop-types/15.7.2/prop-types.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/code/lib/prop-types/15.7.2/prop-types.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/code/lib/prop-types/15.7.2/prop-types.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/platform/c/react15-polyfill/0.0.1/dist/index.js": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/platform/c/react15-polyfill/0.0.1/dist/index.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/platform/c/react15-polyfill/0.0.1/dist/index.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/platform/c/react15-polyfill/0.0.1/dist/index.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/platform/c/immutable/3.7.6/dist/immutable.min.js": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/platform/c/immutable/3.7.6/dist/immutable.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/platform/c/immutable/3.7.6/dist/immutable.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/platform/c/immutable/3.7.6/dist/immutable.min.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/platform/c/natty-storage/2.0.2/dist/natty-storage.min.js": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/platform/c/natty-storage/2.0.2/dist/natty-storage.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/platform/c/natty-storage/2.0.2/dist/natty-storage.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/platform/c/natty-storage/2.0.2/dist/natty-storage.min.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/platform/c/natty-fetch/2.6.0/dist/natty-fetch.pc.min.js": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/platform/c/natty-fetch/2.6.0/dist/natty-fetch.pc.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/platform/c/natty-fetch/2.6.0/dist/natty-fetch.pc.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/platform/c/natty-fetch/2.6.0/dist/natty-fetch.pc.min.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/platform/c/tinymce/4.2.5/tinymce-full.js": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/platform/c/tinymce/4.2.5/tinymce-full.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/platform/c/tinymce/4.2.5/tinymce-full.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/platform/c/tinymce/4.2.5/tinymce-full.js",
+      "status": "success"
+    }
+  ],
+  "https://g.alicdn.com/code/lib/alifd__next/1.23.20/next-with-locales.min.js": [
+    {
+      "filePath": "\\src\\public\\preview.html",
+      "replace": "/downloadAssets/code/lib/alifd__next/1.23.20/next-with-locales.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\index.html",
+      "replace": "/downloadAssets/code/lib/alifd__next/1.23.20/next-with-locales.min.js",
+      "status": "success"
+    },
+    {
+      "filePath": "\\src\\public\\designer.html",
+      "replace": "/downloadAssets/code/lib/alifd__next/1.23.20/next-with-locales.min.js",
+      "status": "success"
+    }
+  ]
+}
